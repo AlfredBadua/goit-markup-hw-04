@@ -592,9 +592,9 @@ gap: 24px;
 .filter-button:active,
 .filter-button-active {
   color: var(--hero-title);
-  background: var(--primary-brand);
+  background: var(--background-hero-button-hover);
   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.12), 0px 2px 1px 0px rgba(0, 0, 0, 0.08), 0px 3px 1px 0px rgba(0, 0, 0, 0.10);
-  border: 1px solid var(--primary-brand);
+  border: 1px solid var(--background-hero-button-hover);
 }
 
 .filter-button-website{
